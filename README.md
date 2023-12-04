@@ -1,1 +1,2 @@
+connectDatabase
 # nextJsDatabase
